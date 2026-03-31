@@ -1,10 +1,6 @@
 <h1>Hi 👋, I'm Dani</h1>
 <h3>Data Analyst based in Ireland</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=danibaum8&label=Profile%20views&color=ec4899&style=flat" alt="danibaum8" />
-</p>
-
 ---
 
 ### 👩‍💻 About Me
