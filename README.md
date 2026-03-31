@@ -3,7 +3,7 @@
 📊 Bachelor in Business Management + Data Analytics certification  
 🚀 I build BI projects to support data-driven decisions  
 
-### 🔗 Connect with me
+### Connect with me
 
 <a href="https://www.linkedin.com/in/danibaum8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.kaggle.com/danibaum"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a> <a href="https://public.tableau.com/app/profile/dani.baum/vizzes"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></a>
 
@@ -21,13 +21,9 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
----
-
 ### 📌 Featured Project
 
-- 💸 **Where the Money Goes** — exploring spending patterns through data analysis and visual storytelling
-
----
+💸 **Where the Money Goes** - exploring spending patterns through data analysis and visual storytelling
 
 ### 📊 My GitHub Stats
 
