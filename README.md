@@ -1,3 +1,5 @@
+### About
+
 👋 Hi, I'm Dani  
 🎓 Postgraduate in Dat Science & Analytics @ MTU Cork  
 📊 Bachelor in Business Management + Data Analytics certification  
