@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dani</h1>
-<h3 align="center">Data Analyst based in Ireland</h3>
+<h1>Hi 👋, I'm Dani</h1>
+<h3>Data Analyst based in Ireland</h3>
 
 ### 🚀 About Me
 <p>🔭 Currently working on **Where the Money Goes**</p>
@@ -14,7 +14,6 @@
   <a href="https://public.tableau.com/app/profile/dani.baum/vizzes">Tableau Public</a>
 </p>
 
----
 
 ### 🛠️ Tools
 <p>
