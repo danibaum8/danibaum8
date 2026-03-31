@@ -23,18 +23,10 @@
 
 ### Featured Project
 
-💸 **Where the Money Goes** - exploring spending patterns through data analysis and visual storytelling
+💸 [Where the Money Goes](https://github.com/danibaum8/parents-spending) - exploring spending patterns through data analysis and visual storytelling
 
 ### My GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=danibaum8&show_icons=true&theme=tokyonight&hide_border=true" alt="Dani's GitHub stats" />
-</p>
-
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danibaum8&theme=tokyonight&hide_border=true" alt="Dani's GitHub streak" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danibaum8&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
