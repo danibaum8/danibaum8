@@ -23,9 +23,13 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-### Featured Project
+### Latest Projects
 
-💸 [Where the Money Goes](https://github.com/danibaum8/parents-spending) - exploring spending patterns through data analysis and visual storytelling
+**[Where the Money Goes](https://github.com/danibaum8/parents-spending)**  
+Explores spending patterns through data analysis and visual storytelling.
+
+**[Credit Risk Scorecard](https://github.com/danibaum8/credit-risk-scorecard)**  
+Machine learning model to predict credit risk, with an interactive Streamlit app.  
 
 ### My GitHub Stats
 
