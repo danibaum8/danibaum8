@@ -21,20 +21,20 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-### 📌 Featured Project
+### Featured Project
 
 💸 **Where the Money Goes** - exploring spending patterns through data analysis and visual storytelling
 
-### 📊 My GitHub Stats
+### My GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=danibaum8&show_icons=true&theme=tokyonight&hide_border=true" alt="Dani's GitHub stats" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danibaum8&theme=tokyonight&hide_border=true" alt="Dani's GitHub streak" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danibaum8&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
