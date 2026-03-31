@@ -5,7 +5,7 @@
 <p>🧠 Working with **Python, SQL & Tableau**</p>
 <p>💡 Analytics, visualisation & insights</p>
 
---
+---
 
 ### Connect with me
 <p>
@@ -14,7 +14,7 @@
   <p><a href="https://public.tableau.com/app/profile/dani.baum/vizzes">Tableau Public</a></p>
 </p>
 
---
+---
 
 ### Tools
 <p>
