@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dani</h1>
-<h3 align="center">Data Analyst based in Ireland</h3>
+<h1>Hi 👋, I'm Dani</h1>
+<h3>Data Analyst based in Ireland</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danibaum8&label=Profile%20views&color=ec4899&style=flat" alt="danibaum8" />
@@ -9,10 +9,10 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 Currently working on **Where the Money Goes**
-- 🚀 Building BI-focused projects to support data-driven decisions
-- 🧠 Working with **Python, SQL and Tableau**
-- 💡 Analytics, visualisation & insights
+🔭 Currently working on **Where the Money Goes**
+🚀 Building BI-focused projects to support data-driven decisions
+🧠 Working with **Python, SQL and Tableau**
+💡 Analytics, visualisation & insights
 
 ---
 
