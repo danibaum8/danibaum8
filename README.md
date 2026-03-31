@@ -4,10 +4,10 @@
 ---
 
 ### 🚀 About Me
-🔭 Currently working on **Where the Money Goes**
-📊 Focused on Business Intelligence & data-driven decisions
-🧠 Working with **Python, SQL & Tableau**
-💡 Analytics, visualisation & insights
+<p>🔭 Currently working on **Where the Money Goes**</p>
+<p>📊 Focused on Business Intelligence & data-driven decisions</p>
+<p>🧠 Working with **Python, SQL & Tableau**</p>
+<p>💡 Analytics, visualisation & insights</p>
 
 ---
 
