@@ -9,9 +9,9 @@
 
 ### Connect with me
 <p>
-  <a href="https://www.linkedin.com/in/danibaum8/">LinkedIn</a> 
-  <a href="https://www.kaggle.com/danibaum">Kaggle</a>
-  <a href="https://public.tableau.com/app/profile/dani.baum/vizzes">Tableau Public</a>
+  <p><a href="https://www.linkedin.com/in/danibaum8/">LinkedIn</a></p>
+  <p><a href="https://www.kaggle.com/danibaum">Kaggle</a></p>
+  <p><a href="https://public.tableau.com/app/profile/dani.baum/vizzes">Tableau Public</a></p>
 </p>
 
 --
