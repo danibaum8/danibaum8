@@ -1,10 +1,7 @@
-👋 Hi, I’m Dani  
-🎓 Postgraduate in Data Science & Analytics @ MTU Cork  
-📊 Background in Business + Data Analytics certification  
-🧠 I work mostly with Python, SQL & Tableau  
-🚀 Building BI-focused projects to support data-driven decisions  
-💡 Data insights & visualisation  
----
+👋 Hi, I'm Dani  
+🎓 Postgraduate in Dat Science & Analytics @ MTU Cork  
+📊 Bachelor in Business Management + Data Analytics certification  
+🚀 I build BI projects to support data-driven decisions  
 
 ### 🔗 Connect with me
 
@@ -16,8 +13,6 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
-
----
 
 ### When I work with data, I rely on
 
