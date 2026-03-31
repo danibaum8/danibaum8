@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dani</h1>
 <h3 align="center">Data Analyst based in Ireland</h3>
 
----
-
 ### 🚀 About Me
 <p>🔭 Currently working on **Where the Money Goes**</p>
 <p>📊 Focused on Business Intelligence & data-driven decisions</p>
 <p>🧠 Working with **Python, SQL & Tableau**</p>
 <p>💡 Analytics, visualisation & insights</p>
-
----
 
 ### 🔗 Connect with me
 <p>
