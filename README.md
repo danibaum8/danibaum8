@@ -1,15 +1,9 @@
-<h1>Hi 👋, I'm Dani</h1>
-<h3>Data Analyst based in Ireland</h3>
-
----
-
-### 👩‍💻 About Me
-
-🔭 Currently working on **Where the Money Goes**
-🚀 Building BI-focused projects to support data-driven decisions
-🧠 Working with **Python, SQL and Tableau**
-💡 Analytics, visualisation & insights
-
+👋 Hi, I’m Dani  
+🎓 Postgraduate in Data Science & Analytics @ MTU Cork  
+📊 Background in Business + Data Analytics certification  
+🧠 I work mostly with Python, SQL & Tableau  
+🚀 Building BI-focused projects to support data-driven decisions  
+💡 Data insights & visualisation  
 ---
 
 ### 🔗 Connect with me
