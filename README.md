@@ -3,7 +3,7 @@
 👋 Hi, I'm Dani  
 🎓 Postgraduate in Data Science & Analytics @ MTU Cork  
 📊 Bachelor in Business Management + Data Analytics certification  
-🚀 I build BI projects to support data-driven decisions  
+🚀 Building BI-focused projects to support data-driven decisions  
 
 ### Connect with me
 
