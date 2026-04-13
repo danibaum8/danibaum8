@@ -30,7 +30,7 @@
 
 ### Latest Projects
 
-**[Where the Money Goes](https://github.com/danibaum8/parents-spending)**  
+**[Parental Spending on After-School Activities in Ireland](https://github.com/danibaum8/parents-spending)**  
 Explores spending patterns through data analysis and visual storytelling.
 
 **[Credit Risk Scorecard](https://github.com/danibaum8/credit-risk-scorecard)**  
