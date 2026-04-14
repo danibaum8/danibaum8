@@ -1,9 +1,9 @@
 ### About
 
-👋 Hi, I’m Dani  
-Data Analyst focused on turning data into clear business insights  
+👋 Hi, I’m Dani, Data Analyst focused on turning data into clear business insights  
 
-🎓 Postgraduate in Data Science & Analytics @ MTU Cork  
+🎓 Postgraduate in Data Science & Analytics @ MTU Cork & BA in Business  
+
 📊 Background in business, design, and data analytics  
 
 🚀 I build projects that:
