@@ -34,6 +34,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+## Currently Working On
+- Customer behaviour & segmentation analysis  
+- Building interactive dashboards in Tableau  
+- Expanding portfolio with real-world business case studies
+
 ### Latest Projects
 
 **[Parental Spending on After-School Activities in Ireland](https://github.com/danibaum8/parents-spending)**  
