@@ -18,6 +18,9 @@
 ### When I work with data, I rely on
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM%20APIs-7B2FBE?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
@@ -35,11 +38,12 @@
 </p>
 
 ### Currently Working On
-- Customer behaviour & segmentation analysis  
-- Building interactive dashboards in Tableau  
-- Expanding portfolio with real-world business case studies
+Building AI-powered agents using the Claude API and Streamlit
 
 ### Latest Projects
+
+**[TrailGear AI Agent](https://github.com/danibaum8/trailgear-ai-agent)**
+Conversational product assistant powered by the Claude API - answers natural language questions over a structured catalog in real time.
 
 **[Parental Spending on After-School Activities in Ireland](https://github.com/danibaum8/parents-spending)**  
 Explores spending patterns through data analysis and visual storytelling.
