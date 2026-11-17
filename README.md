@@ -1,21 +1,21 @@
 ### About
 
-👋 Hi, I’m Dani, Data Analyst focused on turning data into clear business insights  
+👋 Hi, I'm Dani. I work on AI adoption and delivery, and I build AI agents and apps with the Claude API, Python and Streamlit
 
-🎓 Postgraduate in Data Science & Analytics @ MTU Cork & BA in Business  
+🎓 Postgraduate in Data Science & Analytics @ MTU Cork, now studying the legal, social and ethical implications of AI at TUS
 
-📊 Background in business, design, and data analytics  
+📊 Background in business, design, and data analytics
 
 🚀 I build projects that:
-- uncover customer behaviour patterns  
-- support data-driven decision-making  
-- translate data into actionable insights  
+- put LLMs to work on real business questions
+- are tested for reliability before they go live
+- turn data into decisions people can act on
 
 ### Connect with me
 
 <a href="https://www.linkedin.com/in/danibaum8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.kaggle.com/danibaum"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a> <a href="https://public.tableau.com/app/profile/dani.baum/vizzes"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></a>
 
-### When I work with data, I rely on
+### Tools I work with
 
 <p align="left">
   <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
@@ -49,10 +49,4 @@ Conversational product assistant powered by the Claude API - answers natural lan
 Explores spending patterns through data analysis and visual storytelling.
 
 **[Credit Risk Scorecard](https://github.com/danibaum8/credit-risk-scorecard)**  
-Machine learning model to predict credit risk, with an interactive Streamlit app.  
-
-### My GitHub Stats
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danibaum8&theme=tokyonight&hide_border=true" alt="Dani's GitHub streak" />
-</p>
+Machine learning model to predict credit risk, with an interactive Streamlit app.
