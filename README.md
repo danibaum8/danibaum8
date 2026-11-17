@@ -1,6 +1,6 @@
 ### About
 
-👋 Hi, I'm Dani. I work on AI adoption and delivery, and I build AI agents and apps with the Claude API, Python and Streamlit
+👋 Hi, I’m Dani, AI Solutions Analyst focused on turning data and LLMs into practical business tools
 
 🎓 Postgraduate in Data Science & Analytics @ MTU Cork, now studying the legal, social and ethical implications of AI at TUS
 
